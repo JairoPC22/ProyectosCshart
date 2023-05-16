@@ -1,0 +1,8 @@
+D:\VisualStudio\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+D:\VisualStudio\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+D:\VisualStudio\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.AssemblyReference.cache
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+D:\VisualStudio\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+D:\VisualStudio\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe
+D:\VisualStudio\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.pdb
+D:\VisualStudio\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.AssemblyReference.cache
+D:\VisualStudio\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.exe
+D:\VisualStudio\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.pdb

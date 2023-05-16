@@ -1,0 +1,8 @@
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\bin\Debug\UsosDeFor_Switch_Clases.exe.config
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\bin\Debug\UsosDeFor_Switch_Clases.exe
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\bin\Debug\UsosDeFor_Switch_Clases.pdb
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\obj\Debug\UsosDeFor_Switch_Clases.csproj.AssemblyReference.cache
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\obj\Debug\UsosDeFor_Switch_Clases.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\obj\Debug\UsosDeFor_Switch_Clases.csproj.CoreCompileInputs.cache
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\obj\Debug\UsosDeFor_Switch_Clases.exe
+D:\VisualStudio\UsosDeFor_Switch_Clases\UsosDeFor_Switch_Clases\obj\Debug\UsosDeFor_Switch_Clases.pdb

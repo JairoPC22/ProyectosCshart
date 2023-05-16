@@ -1,0 +1,8 @@
+D:\VisualStudio\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\VisualStudio\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\VisualStudio\Ejercicio11\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\VisualStudio\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csproj.AssemblyReference.cache
+D:\VisualStudio\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\VisualStudio\Ejercicio11\Ejercicio11\obj\Debug\Ejercicio11.pdb

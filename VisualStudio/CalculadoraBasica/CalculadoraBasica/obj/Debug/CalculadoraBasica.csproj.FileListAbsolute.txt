@@ -1,0 +1,11 @@
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe.config
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.AssemblyReference.cache
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Form1.resources
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.Properties.Resources.resources
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.GenerateResource.cache
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.exe
+D:\VisualStudio\CalculadoraBasica\CalculadoraBasica\obj\Debug\CalculadoraBasica.pdb

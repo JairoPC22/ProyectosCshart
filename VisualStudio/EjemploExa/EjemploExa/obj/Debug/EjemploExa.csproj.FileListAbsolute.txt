@@ -1,0 +1,8 @@
+D:\VisualStudio\EjemploExa\EjemploExa\bin\Debug\EjemploExa.exe.config
+D:\VisualStudio\EjemploExa\EjemploExa\bin\Debug\EjemploExa.exe
+D:\VisualStudio\EjemploExa\EjemploExa\bin\Debug\EjemploExa.pdb
+D:\VisualStudio\EjemploExa\EjemploExa\obj\Debug\EjemploExa.csproj.AssemblyReference.cache
+D:\VisualStudio\EjemploExa\EjemploExa\obj\Debug\EjemploExa.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\EjemploExa\EjemploExa\obj\Debug\EjemploExa.csproj.CoreCompileInputs.cache
+D:\VisualStudio\EjemploExa\EjemploExa\obj\Debug\EjemploExa.exe
+D:\VisualStudio\EjemploExa\EjemploExa\obj\Debug\EjemploExa.pdb

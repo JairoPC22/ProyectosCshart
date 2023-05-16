@@ -1,0 +1,11 @@
+D:\VisualStudio\Esp32Datos\Esp32Datos\bin\Debug\Esp32Datos.exe.config
+D:\VisualStudio\Esp32Datos\Esp32Datos\bin\Debug\Esp32Datos.exe
+D:\VisualStudio\Esp32Datos\Esp32Datos\bin\Debug\Esp32Datos.pdb
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.csproj.AssemblyReference.cache
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.Form1.resources
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.Properties.Resources.resources
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.csproj.GenerateResource.cache
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.exe
+D:\VisualStudio\Esp32Datos\Esp32Datos\obj\Debug\Esp32Datos.pdb

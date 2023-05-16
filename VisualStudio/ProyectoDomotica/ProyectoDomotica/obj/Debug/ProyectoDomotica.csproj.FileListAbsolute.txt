@@ -1,0 +1,11 @@
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\bin\Debug\ProyectoDomotica.exe.config
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\bin\Debug\ProyectoDomotica.exe
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\bin\Debug\ProyectoDomotica.pdb
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.csproj.AssemblyReference.cache
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.Form1.resources
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.Properties.Resources.resources
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.csproj.GenerateResource.cache
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.exe
+D:\VisualStudio\ProyectoDomotica\ProyectoDomotica\obj\Debug\ProyectoDomotica.pdb

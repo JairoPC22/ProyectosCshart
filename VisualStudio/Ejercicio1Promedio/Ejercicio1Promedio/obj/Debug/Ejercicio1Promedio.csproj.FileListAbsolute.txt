@@ -1,0 +1,8 @@
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\bin\Debug\Ejercicio1Promedio.exe.config
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\bin\Debug\Ejercicio1Promedio.exe
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\bin\Debug\Ejercicio1Promedio.pdb
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\obj\Debug\Ejercicio1Promedio.csproj.AssemblyReference.cache
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\obj\Debug\Ejercicio1Promedio.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\obj\Debug\Ejercicio1Promedio.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\obj\Debug\Ejercicio1Promedio.exe
+D:\VisualStudio\Ejercicio1Promedio\Ejercicio1Promedio\obj\Debug\Ejercicio1Promedio.pdb

@@ -1,0 +1,8 @@
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\bin\Debug\UsodeIfs_SyR5A.exe.config
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\bin\Debug\UsodeIfs_SyR5A.exe
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\bin\Debug\UsodeIfs_SyR5A.pdb
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\obj\Debug\UsodeIfs_SyR5A.csproj.AssemblyReference.cache
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\obj\Debug\UsodeIfs_SyR5A.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\obj\Debug\UsodeIfs_SyR5A.csproj.CoreCompileInputs.cache
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\obj\Debug\UsodeIfs_SyR5A.exe
+D:\VisualStudio\UsodeIfs_SyR5A\UsodeIfs_SyR5A\obj\Debug\UsodeIfs_SyR5A.pdb

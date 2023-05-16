@@ -1,0 +1,8 @@
+D:\VisualStudio\Llamadas\Llamadas\bin\Debug\Llamadas.exe.config
+D:\VisualStudio\Llamadas\Llamadas\bin\Debug\Llamadas.exe
+D:\VisualStudio\Llamadas\Llamadas\bin\Debug\Llamadas.pdb
+D:\VisualStudio\Llamadas\Llamadas\obj\Debug\Llamadas.csproj.AssemblyReference.cache
+D:\VisualStudio\Llamadas\Llamadas\obj\Debug\Llamadas.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Llamadas\Llamadas\obj\Debug\Llamadas.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Llamadas\Llamadas\obj\Debug\Llamadas.exe
+D:\VisualStudio\Llamadas\Llamadas\obj\Debug\Llamadas.pdb

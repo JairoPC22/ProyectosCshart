@@ -1,0 +1,8 @@
+D:\VisualStudio\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+D:\VisualStudio\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.exe
+D:\VisualStudio\Ejercicio12\Ejercicio12\bin\Debug\Ejercicio12.pdb
+D:\VisualStudio\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.AssemblyReference.cache
+D:\VisualStudio\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.exe
+D:\VisualStudio\Ejercicio12\Ejercicio12\obj\Debug\Ejercicio12.pdb

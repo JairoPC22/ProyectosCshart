@@ -1,0 +1,8 @@
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\bin\Debug\JuegoDeCartas.exe.config
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\bin\Debug\JuegoDeCartas.exe
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\bin\Debug\JuegoDeCartas.pdb
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\obj\Debug\JuegoDeCartas.csproj.AssemblyReference.cache
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\obj\Debug\JuegoDeCartas.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\obj\Debug\JuegoDeCartas.csproj.CoreCompileInputs.cache
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\obj\Debug\JuegoDeCartas.exe
+D:\VisualStudio\JuegoDeCartas\JuegoDeCartas\obj\Debug\JuegoDeCartas.pdb

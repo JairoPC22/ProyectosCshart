@@ -1,0 +1,8 @@
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\bin\Debug\UsoDeCiclosSyR5A.exe.config
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\bin\Debug\UsoDeCiclosSyR5A.exe
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\bin\Debug\UsoDeCiclosSyR5A.pdb
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\obj\Debug\UsoDeCiclosSyR5A.csproj.AssemblyReference.cache
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\obj\Debug\UsoDeCiclosSyR5A.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\obj\Debug\UsoDeCiclosSyR5A.csproj.CoreCompileInputs.cache
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\obj\Debug\UsoDeCiclosSyR5A.exe
+D:\VisualStudio\UsoDeCiclosSyR5A\UsoDeCiclosSyR5A\obj\Debug\UsoDeCiclosSyR5A.pdb

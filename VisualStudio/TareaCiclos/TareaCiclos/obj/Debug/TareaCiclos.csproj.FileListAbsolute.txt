@@ -1,0 +1,8 @@
+D:\VisualStudio\TareaCiclos\TareaCiclos\bin\Debug\TareaCiclos.exe.config
+D:\VisualStudio\TareaCiclos\TareaCiclos\bin\Debug\TareaCiclos.exe
+D:\VisualStudio\TareaCiclos\TareaCiclos\bin\Debug\TareaCiclos.pdb
+D:\VisualStudio\TareaCiclos\TareaCiclos\obj\Debug\TareaCiclos.csproj.AssemblyReference.cache
+D:\VisualStudio\TareaCiclos\TareaCiclos\obj\Debug\TareaCiclos.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\TareaCiclos\TareaCiclos\obj\Debug\TareaCiclos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\TareaCiclos\TareaCiclos\obj\Debug\TareaCiclos.exe
+D:\VisualStudio\TareaCiclos\TareaCiclos\obj\Debug\TareaCiclos.pdb

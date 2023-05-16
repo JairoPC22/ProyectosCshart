@@ -1,0 +1,8 @@
+D:\VisualStudio\Examen2\Examen2\bin\Debug\Examen2.exe.config
+D:\VisualStudio\Examen2\Examen2\bin\Debug\Examen2.exe
+D:\VisualStudio\Examen2\Examen2\bin\Debug\Examen2.pdb
+D:\VisualStudio\Examen2\Examen2\obj\Debug\Examen2.csproj.AssemblyReference.cache
+D:\VisualStudio\Examen2\Examen2\obj\Debug\Examen2.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Examen2\Examen2\obj\Debug\Examen2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Examen2\Examen2\obj\Debug\Examen2.exe
+D:\VisualStudio\Examen2\Examen2\obj\Debug\Examen2.pdb

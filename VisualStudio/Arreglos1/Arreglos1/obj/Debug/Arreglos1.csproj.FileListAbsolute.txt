@@ -1,0 +1,8 @@
+D:\VisualStudio\Arreglos1\Arreglos1\bin\Debug\Arreglos1.exe.config
+D:\VisualStudio\Arreglos1\Arreglos1\bin\Debug\Arreglos1.exe
+D:\VisualStudio\Arreglos1\Arreglos1\bin\Debug\Arreglos1.pdb
+D:\VisualStudio\Arreglos1\Arreglos1\obj\Debug\Arreglos1.csproj.AssemblyReference.cache
+D:\VisualStudio\Arreglos1\Arreglos1\obj\Debug\Arreglos1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\Arreglos1\Arreglos1\obj\Debug\Arreglos1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Arreglos1\Arreglos1\obj\Debug\Arreglos1.exe
+D:\VisualStudio\Arreglos1\Arreglos1\obj\Debug\Arreglos1.pdb
